@@ -14,8 +14,8 @@
 public class ReclamationProject {
     /**
      *
-     * @param a string parameter
-     * @param b string parameter
+     * @param a string
+     * @param b string
      * @return
      * TODO set a to c
      */
